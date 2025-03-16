@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\bin\Debug\net9.0\ExContagemRegressiva.exe
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\bin\Debug\net9.0\ExContagemRegressiva.deps.json
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\bin\Debug\net9.0\ExContagemRegressiva.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\bin\Debug\net9.0\ExContagemRegressiva.dll
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\bin\Debug\net9.0\ExContagemRegressiva.pdb
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.dll
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\refint\ExContagemRegressiva.dll
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.pdb
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ExContagemRegressiva.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\ExContagemRegressiva\obj\Debug\net9.0\ref\ExContagemRegressiva.dll
